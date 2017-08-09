@@ -6,17 +6,18 @@ body {
     background-color: hotpink;
 }
 #<p><a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a></p>
+<a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a>
 
 </style>
 </head>
 <body>
 
-<h1><a href>Closet</a></h>
-<h2><a>Shirts</a></h2>
-<h2><a>Pants</a></h2>
-<h2><a>Dresses</a></h2>
-<h2><a>shoes</a></h2>
-<h2><a>Accesories</a></h2>
+<h1><a href target="_self">Closet</a></h>
+<h2><a href target="_self">Shirts</a></h2>
+<h2><a href target="_self">Pants</a></h2>
+<h2><a href target="_self">Dresses</a></h2>
+<h2><a href target=">shoes</a></h2>
+<h2><a href target=">Accesories</a></h2>
 
 </body>
 </html> 
