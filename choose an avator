@@ -1,0 +1,5 @@
+<!DOCTYPE html>
+<button id="choose a avator">Choose an avator</button>
+<script>
+$(projectfashion).on('click', function(choose a avator) { window.location = https://github.com/facheemgustin/projectfashion/new/gh-pages'; });
+</script>
