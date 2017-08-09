@@ -1,1 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-color: hotpink;
+}
 
+
+</style>
+</head>
+<body>
+
+<h1>CLOSET</h>
+<h2>Shirts</h2>
+<h2>Pants</h2>
+<h2>Dresses</h2>
+<h2>shoes</h2>
+<h2>Accesories</h2>
+
+</body>
+</html> 
